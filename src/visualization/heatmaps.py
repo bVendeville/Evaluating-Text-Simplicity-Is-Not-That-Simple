@@ -356,7 +356,6 @@ def plot_combined_heatmaps(
 
     if save_path:
         fig.savefig(save_path, dpi=300, bbox_inches='tight')
-        print(f"Saved: {save_path}")
 
     return fig
 
