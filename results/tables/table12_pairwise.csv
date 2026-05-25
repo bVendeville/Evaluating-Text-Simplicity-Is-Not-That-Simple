@@ -1,0 +1,17 @@
+Dataset,Model,Pairwise r,delta-r,Position bias
+SDA,GPT-4o-mini,0.354,-0.149,0.307
+SDA,Gemma-4-E4B,0.378,0.077,0.342
+SDA,Ministral-8B,-,-,0.075
+SDA,Llama-3.1-8B,0.349,-0.14,0.311
+ST-sent,GPT-4o-mini,0.381,-0.066,0.216
+ST-sent,Gemma-4-E4B,0.32,-0.102,0.176
+ST-sent,Ministral-8B,-0.02,-0.286,0.684
+ST-sent,Llama-3.1-8B,0.055,-0.304,0.294
+ST-para,GPT-4o-mini,0.298,0.031,0.26
+ST-para,Gemma-4-E4B,0.22,0.078,0.329
+ST-para,Ministral-8B,-0.018,-0.134,0.397
+ST-para,Llama-3.1-8B,0.176,-0.042,0.215
+D-Wiki,GPT-4o-mini,0.234,-0.156,0.187
+D-Wiki,Gemma-4-E4B,0.278,-0.101,0.174
+D-Wiki,Ministral-8B,-0.005,-0.403,0.29
+D-Wiki,Llama-3.1-8B,0.193,-0.13,0.255

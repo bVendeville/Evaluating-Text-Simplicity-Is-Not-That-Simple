@@ -1,0 +1,20 @@
+Dataset,Condition,Haiku 4.5,GPT-4o-mini,Gemma-4-E4B,Ministral-8B,Llama-3.1-8B
+ARTS300,output,0.727,0.750,0.673,0.545,0.541
+ARTS3k,output,0.688,0.716,0.647,0.541,0.517
+ARTS94,output,0.682,0.707,0.632,0.438,0.486
+D-Wiki,+ reference,0.497,,,,
+D-Wiki,+ source,0.574,,,,
+D-Wiki,+ source + ref,0.522,,,,
+D-Wiki,output,0.495,0.391,0.379,0.398,0.323
+SDA,+ reference,0.639,,,,
+SDA,+ source,0.676,,,,
+SDA,+ source + ref,0.725,,,,
+SDA,output,0.363,0.504,0.302,0.589,0.489
+ST-para,+ reference,0.154,,,,
+ST-para,+ source,0.216,,,,
+ST-para,+ source + ref,0.188,,,,
+ST-para,output,0.297,0.267,0.142,0.116,0.218
+ST-sent,+ reference,0.026,,,,
+ST-sent,+ source,0.179,,,,
+ST-sent,+ source + ref,0.181,,,,
+ST-sent,output,0.465,0.447,0.422,0.265,0.359

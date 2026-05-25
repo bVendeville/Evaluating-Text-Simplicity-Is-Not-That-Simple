@@ -1,0 +1,8 @@
+Dataset,LR-ARTS94,LR-ARTS94,LR-ARTS300,LR-ARTS300,LR-ARTS3k,LR-ARTS3k
+Method,Spearman,Kendall,Spearman,Kendall,Spearman,Kendall
+Model,,,,,,
+Haiku 4.5,0.532,0.379,0.617,0.443,0.585,0.414
+GPT-4o-mini,0.482,0.345,0.650,0.466,0.633,0.456
+Gemma-4-E4B,0.398,0.270,0.510,0.356,0.520,0.361
+Ministral-8B,0.261,0.187,0.438,0.300,0.413,0.285
+Llama-3.1-8B,0.249,0.175,0.470,0.329,0.423,0.293

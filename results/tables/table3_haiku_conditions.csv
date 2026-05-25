@@ -1,0 +1,5 @@
+Haiku condition,SDA,ST-sent,ST-para,D-Wiki
+Claude(simp),0.363,0.465,0.297,0.495
+Claude(simp+src),0.676,0.179,0.216,0.574
+Claude(simp+ref),0.639,0.026,0.154,0.497
+Claude(simp+src+ref),0.725,0.181,0.188,0.522

@@ -1,0 +1,26 @@
+{
+  "GPT-4o-mini (pairwise)": {
+    "D-Wiki": 0.187,
+    "SDA": 0.307,
+    "ST-para": 0.26,
+    "ST-sent": 0.216
+  },
+  "Gemma-4-E4B (pairwise)": {
+    "D-Wiki": 0.174,
+    "SDA": 0.342,
+    "ST-para": 0.329,
+    "ST-sent": 0.176
+  },
+  "Llama-3.1-8B (pairwise)": {
+    "D-Wiki": 0.2545,
+    "SDA": 0.311,
+    "ST-para": 0.215,
+    "ST-sent": 0.294
+  },
+  "Ministral-8B (pairwise)": {
+    "D-Wiki": 0.2905,
+    "SDA": 0.075,
+    "ST-para": 0.397,
+    "ST-sent": 0.684
+  }
+}
